@@ -97,26 +97,13 @@ if __name__ == "__main__":
     main()
 
 
-
-
-"""
-Aşağıdaki metni başlık başlık özetle. 
-    Önemli noktaları, ana fikirleri ve temel bulguları içeren kapsamlı bir özet oluştur.
-    Özet anlaşılır ve akıcı olmalı. 
-    Öncelikle bir başlığın altındaki yazıyı özetle, daha sonra diğer başlığın altındaki yazıyı özetle ve bu şekilde devam et.
-
-    Metin:
-    {text}
-
-    Özet:
-"""
     #"""
-   # Summarize the following text, heading by heading.
-   #     Create a comprehensive summary that includes key points, main ideas, and key findings.
-   #     The summary should be clear and concise.
-   #     First summarize the text under one heading, then summarize the text under the next heading, and so on.
-   #     Text:
+   # Aşağıdaki metni başlık başlık özetle. 
+   #     Önemli noktaları, ana fikirleri ve temel bulguları içeren kapsamlı bir özet oluştur.
+   #     Özet anlaşılır ve akıcı olmalı.
+   #     Öncelikle bir başlığın altındaki yazıyı özetle, daha sonra diğer başlığın altındaki yazıyı özetle ve bu şekilde devam et.
+   #     Metin:
    #     {text}
 
-   #     Summary:
+   #     Özet:
     #"""
